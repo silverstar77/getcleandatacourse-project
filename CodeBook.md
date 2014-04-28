@@ -8,7 +8,8 @@
  - subjects: A categorical variable of 30 levels. Identifies the subjects that participates in the Samsung study. Values:    the numbers from 1 to 30.
  - activity: A categorical variable of 6 levels. Identifies for which activity the data was recorded. Values: WALKING, 
 WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
- - Measurements - the mean and the standard deviation of each measurement were calculated. Then the variables were averaged across activities for each subject. 
+ - Measurements - the mean and the standard deviation of each measurement were calculated. Then the variables were averaged across activities for each subject.
+ 
  [1] tBodyAcc-mean()-X           
  [2] tBodyAcc-mean()-Y        
  [3] tBodyAcc-mean()-Z
